@@ -41,9 +41,6 @@ make install
 /usr/lib64/ocaml/schroedinger/schroedinger.cmi
 /usr/lib64/ocaml/schroedinger/schroedinger.cmxa
 /usr/lib64/ocaml/schroedinger/schroedinger.mli
-/usr/lib64/ocaml/schroedinger/ocaml-schroedinger.h
-/usr/lib64/ocaml/schroedinger/schroedinger_demuxer.cmi
-/usr/lib64/ocaml/schroedinger/schroedinger_demuxer.mli
 /usr/lib64/ocaml/schroedinger/libschroedinger_stubs.a
 /usr/lib64/ocaml/stublibs/dllschroedinger_stubs.so
 /usr/lib64/ocaml/stublibs/dllschroedinger_stubs.so.owner
