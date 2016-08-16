@@ -12,7 +12,9 @@ BuildRequires: ocaml-findlib
 BuildRequires: ocaml-bytes
 BuildRequires: ocaml-ogg
 BuildRequires: schroedinger-devel
+BuildRequires: libogg-devel
 Requires:      schroedinger
+Requires:      libogg
 
 %prep
 %setup -q 
