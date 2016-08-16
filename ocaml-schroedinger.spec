@@ -10,6 +10,7 @@ Source0:  https://github.com/savonet/ocaml-schroedinger/releases/download/%{vers
 BuildRequires: ocaml
 BuildRequires: ocaml-findlib
 BuildRequires: ocaml-bytes
+BuildRequires: ocaml-ogg
 BuildRequires: schroedinger-devel
 Requires:      schroedinger
 
